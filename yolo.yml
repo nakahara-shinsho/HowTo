@@ -1,0 +1,16 @@
+# conda env update -f file.yml --prune
+
+name: yolo
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - open3d
+  - ultralytics 
+  - torch 
+  - torchvision 
+  - torchaudio
+  
+prefix: C:\Users\xinxi\Anaconda3\envs\yolo
+
