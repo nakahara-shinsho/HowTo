@@ -12,5 +12,5 @@ dependencies:
   - torchvision 
   - torchaudio
   
-prefix: C:\Users\xinxi\Anaconda3\envs\yolo
+prefix: C:\Users\[yourname]\Anaconda3\envs\yolo
 
