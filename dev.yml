@@ -26,6 +26,5 @@ dependencies:
   - opencv-contrib=3.3.1=py36_1
   - conda-forge::addict=2.4.0
   - open3d-admin::open3d=0.15.1
-  
+  - anaconda::sympy
 prefix: C:\Users\[yourname]\Anaconda3\envs\img-dev
-
